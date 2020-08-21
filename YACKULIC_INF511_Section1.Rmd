@@ -1,0 +1,5 @@
+CHAPTER 2: Get a NEON API Token
+library("neonUtilities")
+source('~/Desktop/INF_550_Notes/neon_token_source.R')
+veglist <- loadByProduct(dpID="DP1.10098.001", site="WREF", package="basic", check.size=FALSE, token = NEON_TOKEN)
+summary(veglist)
