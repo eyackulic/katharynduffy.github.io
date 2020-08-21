@@ -1,0 +1,11 @@
+---
+title: "Intro to NEON Coding Exercises"
+author: "E Yackulic"
+date: "8/20/2020"
+output: pdf_document
+---
+
+library("neonUtilities")
+source('~/Desktop/INF_550_Notes/neon_token_source.R')
+veglist <- loadByProduct(dpID="DP1.10098.001", site="WREF", package="basic", check.size=FALSE, token = NEON_TOKEN)
+summary(veglist)
