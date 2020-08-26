@@ -1347,7 +1347,7 @@ e.g. `ONAQ`
 
 
 
-2.  Use the answers that you've provided above to select **3 NEON data products** from either the TOS, TIS or ARS (AOP) collection methods.  Sumarize each product with its NEON identifier, along with a sumarry.
+2.  Use the answers that you've provided above to select **3 NEON data products** from either the TOS, TIS or ARS (AOP) collection methods.  Summarize each product with its NEON identifier, along with a summary.
 
 e.g.:
 
